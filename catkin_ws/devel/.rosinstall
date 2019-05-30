@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wolf/ros_ws/arduino_sensor/catkin_ws/devel/setup.sh

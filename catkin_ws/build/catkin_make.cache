@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/wolf/ros_ws/arduino_sensor/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wolf/ros_ws/arduino_sensor/catkin_ws/install -G Unix Makefiles
